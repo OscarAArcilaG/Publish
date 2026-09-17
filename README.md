@@ -1,15 +1,6 @@
 Repositorio de Publicaciones: Sismicidad Lunar y Generación de Acelerogramas Sintéticos
 
-Este repositorio contiene únicamente las publicaciones derivadas del proyecto "Metodología para la caracterización de la amenaza sísmica, generación de sismos sintéticos y espectros de diseño para la Luna" (Universidad del Valle, Colombia). No incluye código fuente, datos ni software; solo documentos académicos.
-Contenido
-
-```text
-.
-├── UnderGraduateDssertationOscarArcila.pdf
-├── Cadena et al. - 2020 - Preliminary approach to assess the seismic hazard on the Moon.pdf
-├── Preliminary approach to assess the seismic hazard on the Moon.bib
-└── README.md
-```
+Este repositorio contiene únicamente las publicaciones derivadas de los proyectos  No incluye código fuente, datos ni software; solo documentos académicos.
 
 Publicaciones
 1. Tesis de Pregrado
@@ -86,10 +77,6 @@ Universidad del Valle
 Santiago de Cali, Colombia
 Email: oscar.arcila@correounivalle.edu.co
 
-
-Sí. Si lo que quieres es **el README completo en Markdown, listo para copiar directamente como `README.md`**, aquí está en formato limpio. Está basado en el contenido que compartiste y conserva la información técnica del documento. 
-
-````markdown
 # Synthetic Moonquake Generator (SMG)
 
 ![SMG Logo](Images/icon48.jpg)
@@ -544,9 +531,4 @@ Colombia
 ## Version
 
 **Synthetic Moonquake Generator — Version 1.0**
-
-```
-
-Este formato está listo para guardarse como **`README.md`** y pegarse directamente en GitHub.
-```
 
